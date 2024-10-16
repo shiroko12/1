@@ -53,9 +53,9 @@
 
     <h2>圖片展示</h2>
     <div class="image-container">
-        <img src="https://upload.wikimedia.org/wikipedia/zh/1/11/Honkai%EF%BC%9AStar_Rail%E5%B4%A9%E5%A3%9E%EF%BC%9A%E6%98%9F%E7%A9%B9%E9%90%B5%E9%81%93.png" alt="圖片1">
-        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202308/1103/731b8223501fc60aed65f7812b51a9c51fc9ee020a6c7b84.png" alt="圖片2">
-        <img src="https://betabg.mofang.com.tw/admin/20201209/uploads/2021-10-07/images/244185753_138714738483993_17283884135.jpg" alt="圖片3">
+        <img src="https://i.imgur.com/oZEnldQ.jpeg" alt="圖片1">
+        <img src="https://i.imgur.com/oZEnldQ.jpeg" alt="圖片2">
+        <img src="https://i.imgur.com/oZEnldQ.jpeg" alt="圖片3">
     </div>
 
     <p>這是三張示例圖片，它們被均勻地分散並置中顯示。</p>
